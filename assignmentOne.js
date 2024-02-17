@@ -9,3 +9,9 @@ function substractionOperator(num1 , num2){
     return console.log(num1-num2)
 } 
 substractionOperator(45,5)
+
+//Multiplicaton Operator
+function multiplicatonOperator(num1 , num2){
+    return console.log(num1*num2)
+} 
+multiplicatonOperator(15,3)
