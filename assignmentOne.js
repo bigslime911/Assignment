@@ -15,3 +15,9 @@ function multiplicatonOperator(num1 , num2){
     return console.log(num1*num2)
 } 
 multiplicatonOperator(15,3)
+
+//Divison Operator
+function divisonOperator(num1 , num2){
+    return console.log(num1/num2)
+} 
+divisonOperator(15,3)
